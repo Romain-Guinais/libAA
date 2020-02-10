@@ -1,0 +1,3 @@
+[submodule "libB"]
+	path = libB
+	url = git@github.com:Romain-Guinais/libB.git
